@@ -1,0 +1,8 @@
+C:\Users\ervin.rojas\Projects\CSharp\Exercie3\obj\Debug\Exercie3.csproj.AssemblyReference.cache
+C:\Users\ervin.rojas\Projects\CSharp\Exercie3\obj\Debug\Exercie3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ervin.rojas\Projects\CSharp\Exercie3\obj\Debug\Exercie3.csproj.CoreCompileInputs.cache
+C:\Users\ervin.rojas\Projects\CSharp\Exercie3\bin\Debug\Exercie3.exe.config
+C:\Users\ervin.rojas\Projects\CSharp\Exercie3\bin\Debug\Exercie3.exe
+C:\Users\ervin.rojas\Projects\CSharp\Exercie3\bin\Debug\Exercie3.pdb
+C:\Users\ervin.rojas\Projects\CSharp\Exercie3\obj\Debug\Exercie3.exe
+C:\Users\ervin.rojas\Projects\CSharp\Exercie3\obj\Debug\Exercie3.pdb
