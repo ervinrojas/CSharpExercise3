@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 
 namespace Exercie3
 {
@@ -62,6 +63,9 @@ namespace Exercie3
 
             ClassC filter = new ClassC();
             filter.Filters(listInt);
+
+            ClassC wSpaces = new ClassC();
+            wSpaces.whiteSpaces(listString);
             
         }
     }

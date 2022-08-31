@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 
 namespace Exercie3
 {
@@ -77,6 +78,16 @@ namespace Exercie3
             List<int> uniqueList = listInt.Distinct().ToList();
             Console.WriteLine("List after removing duplicates");
             uniqueList.ForEach(i => Console.WriteLine($"{i}"));
+            //Console.ReadLine();
+        }
+
+        public void whiteSpaces(List<string> listString)
+        {
+            Console.WriteLine("List without empty spaces");
+            //listString.ForEach(i => i = Regex.Replace(i, @"\s", ""));
+            //listString =listString.Select(i => i.Replace( " ", "")).ToList();
+            listString.ForEach(i => Console.WriteLine($"{i.Replace(" ","")}"));
+            
             Console.ReadLine();
         }
     }
